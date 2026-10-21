@@ -1,0 +1,4 @@
+.card { border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,.15); background: #fff; }
+.imagem { width: 100%; height: 180px; object-fit: cover; display: block; }
+.conteudo { padding: 1rem; }
+.conteudo h3 { margin-bottom: .5rem; }
